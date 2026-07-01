@@ -28,6 +28,7 @@ Dữ liệu hành khách được truyền vào thông qua cấu trúc mảng Ve
 
 ```cpp
 // Ví dụ cấu hình trong hàm main:
+// {tầng rước, tầng đích, số lượng khách}
 ds_yeu_cau.push_back({0, 3, 2});   // 2 người đi từ tầng 0 lên tầng 3
 ds_yeu_cau.push_back({2, 7, 5});   // 5 người đi từ tầng 2 lên tầng 7
 ds_yeu_cau.push_back({9, 1, 4});   // 4 người đi từ tầng 9 xuống tầng 1
