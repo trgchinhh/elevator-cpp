@@ -39,3 +39,11 @@ ds_yeu_cau.push_back({9, 1, 4});   // 4 người đi từ tầng 9 xuống tần
 g++ main.cpp -o main.exe
 ./main.exe
 ```
+
+## Tác giả
+**Nguyễn Trường Chinh (NTC++)**
+GitHub: [https://github.com/trgchinhh](https://github.com/trgchinhh)
+
+---
+
+> 📌 Dự án nhỏ được phát triển với mục đích học tập và nghiên cứu. Mọi góp ý và đóng góp đều được hoan nghênh.
