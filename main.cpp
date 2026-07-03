@@ -7,22 +7,6 @@
 //                                         
 // Bản quyền: MIT LICENSE 2026                                      
 
-/* DOC
-──────────────────────────────────────────────────────────────────
-Hoàn thành ngày 01/07/2026
-MÔ PHỎNG HỆ THỐNG ĐIỀU KHIỂN THANG MÁY BẰNG C++
-
-THUẬT TOÁN ĐỊNH TUYẾN THANG MÁY (THUẬT TOÁN SCAN)
-* Chương trình áp dụng thuật toán SCAN (Elevator Algorithm) để điều khiển hướng di chuyển của thang máy
-* Thang máy luôn giữ nguyên một hướng di chuyển (lên hoặc xuống) và phục vụ toàn bộ các yêu cầu nằm phía trước theo hướng hiện tại
-* Trong quá trình di chuyển, thang máy dừng tại các tầng có yêu cầu đón khách hoặc trả khách nếu các yêu cầu đó cùng chiều với hướng đang di chuyển
-* Chỉ khi không còn bất kỳ yêu cầu nào ở phía trước theo hướng hiện tại, thang máy mới đảo chiều để phục vụ các yêu cầu còn lại
-* Cách hoạt động này giúp giảm số lần đổi hướng không cần thiết, tránh việc thang máy di chuyển qua lại giữa các tầng liên tục
-* Thuật toán SCAN tối ưu lộ trình bằng cách gom các yêu cầu theo từng hướng di chuyển, từ đó giảm quãng đường di chuyển và thời gian chờ trung bình của hành khách
-* Khi không còn bất kỳ yêu cầu nào trong hệ thống, thang máy quay về tầng cơ sở (Base Floor) để sẵn sàng phục vụ các yêu cầu mới
-──────────────────────────────────────────────────────────────────
-*/
-
 #include <windows.h>
 #include <conio.h>
 #include <bits/stdc++.h>
