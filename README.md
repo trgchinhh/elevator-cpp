@@ -2,7 +2,7 @@
   <img src="img/logo.png" alt="Elevator-logo" height="200">
 </p>
 <p align="center">
-  <a href="https://github.com/trgchinhh/library-C_healthy-cpp">
+  <a href="https://github.com/trgchinhh/elevator-cpp">
     <img src="https://img.shields.io/badge/Language-C%2B%2B-orange.svg" alt="Language"/>
   </a>
   <a href="LICENSE">
