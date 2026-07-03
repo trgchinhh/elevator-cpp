@@ -19,6 +19,9 @@ Chương trình mô phỏng thời gian thực hệ thống điều khiển và 
 
 <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/d068c530-1a52-4f38-9b10-2dfc5893d7e5" />
 
+## Liên kết dự án 
+**Bài viết trên FB:** [Bài viết chính thức trên Facebook](https://www.facebook.com/share/p/1F1rUUyLfL/)<br>
+
 ## Thuật Toán Định Tuyến (SCAN / Elevator Algorithm)
 
 Dự án áp dụng cấu trúc định tuyến **SCAN**, một thuật toán tối ưu thường được dùng trong các hệ thống thang máy thực tế:
