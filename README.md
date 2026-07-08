@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/logo.png" alt="Elevator-logo" height="200">
+  <img src="https://github.com/trgchinhh/elevator-cpp/blob/main/img/logo.png" alt="Elevator-logo" height="200">
 </p>
 <p align="center">
   <a href="https://github.com/trgchinhh/elevator-cpp">
