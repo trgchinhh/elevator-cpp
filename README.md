@@ -160,7 +160,9 @@ ds_yeu_cau.push_back({9, 1, 4});   // 4 người đi từ tầng 9 xuống tần
 
 ## Cài đặt và biên dịch
 ```bash
-g++ main.cpp -o main.exe
+git clone https://github.com/trgchinhh/elevator-cpp.git
+cd elevator-cpp
+g++ ./main.cpp -o ./main.exe
 ./main.exe
 ```
 
